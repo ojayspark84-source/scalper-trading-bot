@@ -1,0 +1,1 @@
+"""Scalper trading bot package."""
